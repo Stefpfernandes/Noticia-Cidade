@@ -1,6 +1,10 @@
 # Notícia Cidade
 
-## SOMENTE: Home - Brasil e Fotos são funcionais!
+## SOMENTE: 
+### Home - Brasil - Fotos 
+são funcionais!
+
+--------------------------------------------
 
 ### Site estilo Blog - Curso da Udemy 
 
