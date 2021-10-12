@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: #fff url(imagens/fundo.png) repeat-x;
+    background: #fff url(https://stefpfernandes.github.io/Noticia-Cidade/imagens/fundo.png) repeat-x;
 }
 
 #container {
@@ -15,14 +15,14 @@ body {
 
 #topo {
     height: 150px;
-    background: url(imagens/detalhe-topo.png) no-repeat right top;
+    background: url(https://stefpfernandes.github.io/Noticia-Cidade/imagens/detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
 }
 
 .logo {
     width: 152px;
     height: 66px;
-    background: url(imagens/logo.png);
+    background: url(https://stefpfernandes.github.io/Noticia-Cidade/imagens/logo.png);
     text-indent: -30000px;
 }
 
@@ -60,7 +60,7 @@ ul {
     line-height: 2.1em;
     text-decoration: none;
     color: white;
-    background: url(imagens/divisor.png) no-repeat left center;
+    background: url(https://stefpfernandes.github.io/Noticia-Cidade/imagens/divisor.png) no-repeat left center;
     transition: all ease 0.3s;
 }
 
@@ -233,7 +233,7 @@ h3 {
 .caixa {
     margin: 10px 0;
     padding: 5px;
-    background: #f3f3f3 url(imagens/fundo-caixa.png);
+    background: #f3f3f3 url(https://stefpfernandes.github.io/Noticia-Cidade/imagens/fundo-caixa.png);
 }
 
 h2 {
@@ -262,7 +262,7 @@ h2 {
 }
 
 #lateral ul a:hover {
-    background: #f9f9f9 url(imagens/marcador.png) no-repeat left center;
+    background: #f9f9f9 url(https://stefpfernandes.github.io/Noticia-Cidade/imagens/marcador.png) no-repeat left center;
     color: #a1a1a1;
     padding-left: 20px;
 }
