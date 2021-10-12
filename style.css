@@ -35,6 +35,7 @@ a:link, a:visited {
 
 a:hover {
     color: #e50040;
+    cursor: pointer;
 }
 
 ul {
@@ -70,6 +71,7 @@ ul {
 
 #topo ul li a:hover {
     color: #69001d;
+    cursor: pointer;
 }
 
 body.home #navegacao a#home, 
@@ -158,6 +160,7 @@ input.submit {
 input.submit:hover {
     border: 2px solid #b10333;
     background-color: #870529;
+    cursor: pointer;
 }
 
 /*Formatando IMAGENS*/
